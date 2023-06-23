@@ -1,4 +1,4 @@
-### Learning Vue.js - Linkedin Learning
+# Learning Vue.js - Linkedin Learning
 
 ## Vue3 - exercises
 
